@@ -81,7 +81,7 @@ canvas {
 
 .name {
     font-family: 'Dancing Script', cursive; /* Esto selecciona una fuente de manuscrita */
-    font-size: 10em; /* Tamaño de la fuente, ajusta según lo necesario */
+    font-size: 4rem; /* Tamaño de la fuente, ajusta según lo necesario */
     color: goldenrod; /* Color dorado */
 }
 
